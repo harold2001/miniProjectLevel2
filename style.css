@@ -1,0 +1,44 @@
+* {
+    color: hsl(186, 14%, 43%);
+    font-family: Space Mono;
+}
+ 
+.btn.buttons.active {
+    color: hsl(183, 100%, 15%);
+    background-color: hsl(172, 67%, 45%);
+}
+
+#bg {
+    background-color: hsl(185, 42%, 84%);
+}
+
+
+.buttons {
+    background-color: hsl(183, 100%, 15%);
+    color: #fff;
+    width: 90%;
+}
+
+#tipAmount {
+    color: hsl(172, 67%, 45%);
+}
+
+#totalAmount {
+    color: hsl(172, 67%, 45%);
+}
+
+#reset {
+    background-color: hsl(172, 67%, 45%);
+    color: hsl(183, 100%, 15%);
+}
+
+#bg-green-strong{
+    background-color: hsl(183, 100%, 15%);
+}
+
+small {
+    color: hsl(184, 14%, 56%);
+}
+
+
+
